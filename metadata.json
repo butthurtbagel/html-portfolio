@@ -1,0 +1,7 @@
+{
+  "name": "Valentine's For Abby",
+  "description": "A beautiful, modern Valentine's Day website for Abby featuring personalized AI poems, date planning, and interactive animations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
